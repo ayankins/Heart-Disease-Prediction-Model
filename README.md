@@ -14,7 +14,7 @@ This repository contains the raw code for a machine learning model that predicts
 
 ## Dataset
 
-- **Source:** https://github.com/ayankins/Helios/blob/main/heart.csv
+- **Source:** https://github.com/ayankins/Heart-Disease-Prediction-Model/blob/main/heart.csv
 - **Description:** The dataset includes various patient attributes such as age, sex, chest pain type, resting blood pressure, cholesterol levels, etc.
 
 
